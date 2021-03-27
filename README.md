@@ -5,6 +5,7 @@ My collection of "useful" material for late night explorers :)
 
 * [free programming books](https://github.com/amnotme/Programming-Reference-Books/blob/master/free-programming-books.md)
 * https://github.com/sindresorhus/awesome
+* [Site reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 
 * great Python: [How to Write a Spelling Corrector](https://norvig.com/spell-correct.html)
 
