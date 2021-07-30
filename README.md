@@ -28,6 +28,7 @@ My collection of "useful" material for late night explorers :)
 **Datasets**
 
 * [Public datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Google dataset](https://datasetsearch.research.google.com/)
 
 **Misc**
 * [Job search](https://trycatch.tech/)
