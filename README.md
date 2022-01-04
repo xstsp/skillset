@@ -18,6 +18,7 @@ My collection of "useful" material for late night explorers :)
 * [Project guidelines](https://github.com/elsewhencode/project-guidelines)
 * https://github.com/alex/what-happens-when
 * https://medium.com/knerd/best-practices-for-python-dependency-management-cc8d1913db82
+* https://open.nytimes.com/?gi=2243db245826
 
 **Interviews**
 
