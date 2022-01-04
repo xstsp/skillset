@@ -31,6 +31,7 @@ My collection of "useful" material for late night explorers :)
 * [Public datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Google dataset](https://datasetsearch.research.google.com/)
 * [Amazon Fine Foods reviews] (http://snap.stanford.edu/data/web-FineFoods.html)
+* https://www.dianeosis.org/report/
 
 **Misc**
 * [Job search](https://trycatch.tech/)
